@@ -1,0 +1,10 @@
+# Pycache Files
+*.pyc
+
+# Data folder and config
+data/
+cfg/config.txt
+
+# Database Files
+*.json
+*.db

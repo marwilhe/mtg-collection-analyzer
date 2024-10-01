@@ -1,0 +1,5 @@
+Name your file "config.txt"
+Format:
+
+decks=<path to deck files>
+reference=<path to reference file>
